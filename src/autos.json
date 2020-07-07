@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "marca": "Volkswagen",
+        "modelo": "Golf"
+
+    },
+    {
+        "id": "2",
+        "marca": "Toyota",
+        "modelo": "Corolla"
+
+    },
+    {
+        "id": "3",
+        "marca": "Subaru",
+        "modelo": "Impreza"
+
+    }
+]
